@@ -18,7 +18,6 @@
   "homepage": "https://github.com/tahuana/Book_Store#readme",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "ejs": "^2.5.7",
     "express": "^4.15.4"
   }
 }
